@@ -1,0 +1,27 @@
+#include<iostream>
+#include<string.h>
+using namspace std;
+class student
+{
+ public:
+ string name;
+int status;
+int res;
+int public:
+void get data(string get_name,int get_status)
+{
+id=std;
+res=sres;
+}
+void display()
+{
+cout<<"\t"<<id<<"\t"<<res<<"\n";
+}
+};
+int main()
+{
+Analysis a[10];
+int j;
+int sres,sid;
+
+}
